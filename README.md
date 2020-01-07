@@ -1,2 +1,2 @@
 # web-spider
-A web spider to grab pics on some certain website
+A web spider allows you to grab pics on some certain website
